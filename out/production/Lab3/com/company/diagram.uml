@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="305.0" y="0.0">com.company.IComprasion</node>
+    <node x="0.0" y="538.0">com.company.Bludo</node>
+    <node x="141.0" y="538.0">com.company.Karlson</node>
+    <node x="477.0" y="516.0">com.company.Ulius</node>
+    <node x="216.0" y="148.0">com.company.AAction</node>
+    <node x="0.0" y="659.0">com.company.Guys</node>
+    <node x="317.0" y="516.0">com.company.FrekenBok</node>
+    <node x="143.0" y="11.0">com.company.IObject</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.company.AAction" target="com.company.IComprasion">
+      <point x="43.5" y="-159.0" />
+      <point x="346.5" y="123.0" />
+      <point x="392.0" y="123.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+    <edge source="com.company.Karlson" target="com.company.AAction">
+      <point x="0.0" y="-27.0" />
+      <point x="219.0" y="496.0" />
+      <point x="281.25" y="496.0" />
+      <point x="-21.75" y="159.0" />
+    </edge>
+    <edge source="com.company.Bludo" target="com.company.AAction">
+      <point x="0.0" y="-27.0" />
+      <point x="60.5" y="486.0" />
+      <point x="237.75" y="486.0" />
+      <point x="-65.25" y="159.0" />
+    </edge>
+    <edge source="com.company.AAction" target="com.company.IObject">
+      <point x="-43.5" y="-159.0" />
+      <point x="259.5" y="123.0" />
+      <point x="214.0" y="123.0" />
+      <point x="0.0" y="38.0" />
+    </edge>
+    <edge source="com.company.Ulius" target="com.company.AAction">
+      <point x="-5.6843418860808015E-14" y="-49.0" />
+      <point x="539.0" y="486.0" />
+      <point x="368.25" y="486.0" />
+      <point x="65.25" y="159.0" />
+    </edge>
+    <edge source="com.company.FrekenBok" target="com.company.AAction">
+      <point x="0.0" y="-49.0" />
+      <point x="387.0" y="496.0" />
+      <point x="324.75" y="496.0" />
+      <point x="21.75" y="159.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6000000000000001" x="1311.1666666666665" y="595.3333333333333" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
